@@ -1,0 +1,35 @@
+# KiCad project files to ignore
+
+# Backup and autosave
+*.bak
+*.kicad_prl
+*~*
+
+# Cache and rescue libraries
+*-cache.lib
+*-rescue.kicad_sch
+*.kicad_sch-bak
+
+# User-specific settings
+fp-info-cache
+sym-lib-table-bak
+*.kicad_prl
+
+# Generated fabrication/plot files
+*.gbr
+*.drl
+*.pos
+*.rpt
+*.xml
+*.bom
+*.net
+*.gbrjob
+
+# Simulation outputs
+*.raw
+*.log
+*.cir
+
+# Other temporary / export files
+*.zip
+*.tar.gz
