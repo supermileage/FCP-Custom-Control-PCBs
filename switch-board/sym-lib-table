@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "43045-0221")(type "KiCad")(uri "C:/Users/kvash/Desktop/UBC Supermileage/Switch Board/43045-0221/43045-0221.kicad_sym")(options "")(descr ""))
+  (lib (name "430450421")(type "KiCad")(uri "C:/Users/kvash/Desktop/UBC Supermileage/Switch Board/43045-0421/430450421.kicad_sym")(options "")(descr ""))
+  (lib (name "bulkcapacitor(switch board)")(type "KiCad")(uri "C:/Users/kvash/Desktop/UBC Supermileage/Switch Board/bulk capacitor eda files/bulkcapacitor(switch board).kicad_sym")(options "")(descr ""))
+  (lib (name "mosfet (switch board)")(type "KiCad")(uri "C:/Users/kvash/Desktop/UBC Supermileage/Switch Board/CSD17578Q5A (1)/KiCADv6/mosfet (switch board).kicad_sym")(options "")(descr ""))
+  (lib (name "decouplingcap(switch board)")(type "KiCad")(uri "C:/Users/kvash/Desktop/UBC Supermileage/Switch Board/decoupling capacitor eda files/decouplingcap(switch board).kicad_sym")(options "")(descr ""))
+  (lib (name "diodes")(type "KiCad")(uri "C:/Users/kvash/Desktop/UBC Supermileage/Switch Board/diodes eda files/diodes.kicad_sym")(options "")(descr ""))
+)
