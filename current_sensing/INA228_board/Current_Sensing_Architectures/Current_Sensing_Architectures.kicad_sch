@@ -1,0 +1,156 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "675e5d84-1c6e-4074-a535-1e0901f84ac2")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 43.18 41.91)
+		(size 36.83 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "706cb68e-b065-4c40-b835-aed69b6b2b05")
+		(property "Sheetname" "Hall_sensor"
+			(at 43.18 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Hall_sensor.kicad_sch"
+			(at 43.18 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Current_Sensing_Architectures"
+				(path "/675e5d84-1c6e-4074-a535-1e0901f84ac2"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 68.58 102.87)
+		(size 31.75 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a0963833-79e7-4750-993b-d7f7c9b9a9d5")
+		(property "Sheetname" "Op-Amp"
+			(at 68.58 102.1584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Op_Amp.kicad_sch"
+			(at 68.58 123.7746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 68.58 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "Current_Sensing_Architectures"
+				(path "/675e5d84-1c6e-4074-a535-1e0901f84ac2"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 66.04)
+		(size 30.48 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f79faa22-a066-4bf1-9d92-cbded29eb004")
+		(property "Sheetname" "Power_monitor"
+			(at 152.4 65.3284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_monitor.kicad_sch"
+			(at 152.4 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 152.4 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "Current_Sensing_Architectures"
+				(path "/675e5d84-1c6e-4074-a535-1e0901f84ac2"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

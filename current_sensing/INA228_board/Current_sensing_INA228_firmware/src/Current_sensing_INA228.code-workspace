@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../Current_Sensing_Architectures/Current_sensing_INA228"
+		},
+		{
+			"name": "Current_sensing_INA228",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"extensions.ignoreRecommendations": true,
+		"files.associations": {
+			"*.ino": "cpp"
+		}
+	}
+}
