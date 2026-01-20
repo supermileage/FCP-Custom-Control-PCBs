@@ -897,7 +897,7 @@
 		(at 140 91.25)
 		(descr "Keystone THM Miniature Test Point 5000-5004, http://www.keyelco.com/product-pdf.cfm?p=1309")
 		(tags "Through Hole Mount Test Points")
-		(property "Reference" "TP6"
+		(property "Reference" "Alert"
 			(at 0 -2.5 0)
 			(layer "F.SilkS")
 			(uuid "3f0a0d0a-de55-4cb2-be3c-20396599d9a7")
@@ -2459,7 +2459,7 @@
 		(at 130.25 91.75)
 		(descr "Keystone THM Miniature Test Point 5000-5004, http://www.keyelco.com/product-pdf.cfm?p=1309")
 		(tags "Through Hole Mount Test Points")
-		(property "Reference" "TP5"
+		(property "Reference" "SCL"
 			(at 0 -2.5 0)
 			(layer "F.SilkS")
 			(uuid "85fe06e8-be2f-437c-8965-c35b91a24b0a")
@@ -2995,7 +2995,7 @@
 		(at 135 88.75)
 		(descr "Keystone THM Miniature Test Point 5000-5004, http://www.keyelco.com/product-pdf.cfm?p=1309")
 		(tags "Through Hole Mount Test Points")
-		(property "Reference" "TP4"
+		(property "Reference" "SDA"
 			(at 0 -2.5 0)
 			(layer "F.SilkS")
 			(uuid "49333313-808c-4051-8221-84bba35da0ef")
@@ -4127,7 +4127,7 @@
 		(at 132.5 107.5)
 		(descr "Keystone THM Miniature Test Point 5000-5004, http://www.keyelco.com/product-pdf.cfm?p=1309")
 		(tags "Through Hole Mount Test Points")
-		(property "Reference" "TP1"
+		(property "Reference" "IN+"
 			(at -3.5 -0.75 0)
 			(layer "F.SilkS")
 			(uuid "5cd5db06-0656-4562-952f-7cb6ee07c09b")
@@ -5329,7 +5329,7 @@
 		(at 140.75 107.5)
 		(descr "Keystone THM Miniature Test Point 5000-5004, http://www.keyelco.com/product-pdf.cfm?p=1309")
 		(tags "Through Hole Mount Test Points")
-		(property "Reference" "TP2"
+		(property "Reference" "IN-"
 			(at 3.25 -0.75 0)
 			(layer "F.SilkS")
 			(uuid "0e8fe1aa-ecf9-428a-8da4-6fa588eb8f06")
